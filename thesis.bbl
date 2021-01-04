@@ -1,0 +1,167 @@
+\begin{thebibliography}{10}
+
+\bibitem{bai2005tests}
+Jushan Bai and Serena Ng.
+\newblock Tests for skewness, kurtosis, and normality for time series data.
+\newblock {\em Journal of Business \& Economic Statistics}, 23(1):49--60, 2005.
+
+\bibitem{EstimationoftheExtremeValueIndexandGeneralizedQuantilePlots.article}
+J.~Beirlant, G.~Dierckx, and A.~Guillou.
+\newblock Estimation of the extreme-value index and generalized quantile plots.
+\newblock {\em Bernoulli}, 11(6):949--970, 2005.
+
+\bibitem{beirlant2006statistics}
+Jan Beirlant, Yuri Goegebeur, Johan Segers, and Jozef~L Teugels.
+\newblock {\em Statistics of extremes: theory and applications}.
+\newblock John Wiley \& Sons, 2006.
+
+\bibitem{Introductiontotimeseriesandforecasting.book}
+Peter~J Brockwell, Richard~A Davis, and Matthew~V Calder.
+\newblock {\em Introduction to time series and forecasting}, volume~2.
+\newblock Springer, 2002.
+
+\bibitem{AnEmpiricalAnalysisOfHeavyTailsBehaviorOfFinancialData.article}
+Nicolas Champagnat, Madalina Deaconu, Antoine Lejay, Nicolas Navet, and Souhail
+  Boukherouaa.
+\newblock An empirical analysis of heavy-tails behavior of financial data: The
+  case for power laws.
+\newblock 2013.
+
+\bibitem{ExtremeValueAnalysisAnIntroduction.article}
+Myriam Charras-Garrido and Pascal Lezaud.
+\newblock Extreme value analysis: an introduction.
+\newblock {\em Journal de la Soci{\'e}t{\'e} Fran{\c{c}}aise de Statistique},
+  154(2):pp--66, 2013.
+
+\bibitem{Anintroductiontostatisticalmodelingofextremevalues}
+Stuart Coles, Joanna Bawa, Lesley Trenner, and Pat Dorazio.
+\newblock {\em An introduction to statistical modeling of extreme values},
+  volume 208.
+\newblock Springer, 2001.
+
+\bibitem{RCont.article}
+Rama Cont.
+\newblock Empirical properties of asset returns: stylized facts and statistical
+  issues.
+\newblock 2001.
+
+\bibitem{TailIndexEstimationQuantileDrivenThresholdSelection.article}
+Jon Danielsson, Lerby~Murat Ergun, Laurens de~Haan, and Casper~G de~Vries.
+\newblock Tail index estimation: Quantile driven threshold selection.
+\newblock {\em Available at SSRN 2717478}, 2016.
+
+\bibitem{davis2009extreme}
+Richard~A Davis and Thomas Mikosch.
+\newblock Extreme value theory for garch processes.
+\newblock In {\em Handbook of financial time series}, pages 187--200. Springer,
+  2009.
+
+\bibitem{de2007extreme}
+Laurens De~Haan and Ana Ferreira.
+\newblock {\em Extreme value theory: an introduction}.
+\newblock Springer Science \& Business Media, 2007.
+
+\bibitem{de1989extremal.article}
+Laurens De~Haan, Sidney Resnick, Holger Rootz{\'e}n, and Casper de~Vries.
+\newblock Extremal behavior of solutions to a stochastic difference equation,
+  with applications to arch processes.
+\newblock {\em Stochastic Processes and their Applications}, pages 213--224,
+  1989.
+
+\bibitem{de2004diagnostic}
+Bruno De~Sousa and George Michailidis.
+\newblock A diagnostic plot for estimating the tail index of a distribution.
+\newblock {\em Journal of Computational and Graphical Statistics},
+  13(4):974--995, 2004.
+
+\bibitem{GARCHModelsStructureStatisticalinferenceAndfinancialapplications.book}
+Christian Francq and Jean-Michel Zakoian.
+\newblock {\em GARCH models: structure, statistical inference and financial
+  applications}.
+\newblock John Wiley \& Sons, 2019.
+
+\bibitem{StatisticsofFinancialMarkets.book}
+J{\"u}rgen Franke, Wolfgang~Karl H{\"a}rdle, and Christian~M Hafner.
+\newblock {\em Statistics of financial markets}, volume~2.
+\newblock Springer, 2004.
+
+\bibitem{gnedenko1992limiting}
+BV~Gnedenko.
+\newblock On the limiting distribution of the maximum term in a random series.
+\newblock In {\em Breakthroughs in statistics}, pages 195--225. Springer, 1992.
+
+\bibitem{hubert2013detecting.article}
+Mia Hubert, Goedele Dierckx, and Dina Vanpaemel.
+\newblock Detecting influential data points for the hill estimator in
+  pareto-type distributions.
+\newblock {\em Computational Statistics \& Data Analysis}, 65:13--28, 2013.
+
+\bibitem{EstimatingtheDensityTailIndexforFinancialTimeSeries.article}
+Phillip Kearns and Adrian Pagan.
+\newblock Estimating the density tail index for financial time series.
+\newblock {\em The Review of Economics and Statistics}, 79(2):171--175, 1997.
+
+\bibitem{ExtremalTheoryforStochasticProcesses.article}
+M.~R. Leadbetter and Holger Rootz{\'e}.
+\newblock Extremal theory for stochastic processes.
+\newblock {\em The Annals of Probability}, 16(2):431--478, 1988.
+
+\bibitem{Extremesandrelatedpropertiesofrandomsequencesandprocesses.book}
+Malcolm~R Leadbetter, Georg Lindgren, and Holger Rootz{\'e}n.
+\newblock {\em Extremes and related properties of random sequences and
+  processes}.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{longin1996asymptotic}
+Fran{\c{c}}ois~M Longin.
+\newblock The asymptotic distribution of extreme stock market returns.
+\newblock {\em Journal of business}, pages 383--408, 1996.
+
+\bibitem{mandelbrot1960pareto.article}
+Benoit Mandelbrot.
+\newblock The pareto-levy law and the distribution of income.
+\newblock {\em International Economic Review}, 1(2):79--106, 1960.
+
+\bibitem{mandelbrot1963new}
+Benoit Mandelbrot.
+\newblock New methods in statistical economics.
+\newblock {\em Journal of political economy}, 71(5):421--440, 1963.
+
+\bibitem{Calculatingquantileriskmeasuresforfinancialreturnseriesusingextremevaluetheory.report}
+Alexander~J McNeil.
+\newblock Calculating quantile risk measures for financial return series using
+  extreme value theory.
+\newblock Technical report, ETH Zurich, 1998.
+
+\bibitem{QuantitativeRiskManagement.book}
+Alexander~J McNeil, R{\"u}diger Frey, and Paul Embrechts.
+\newblock {\em Quantitative Risk Management: Concepts, Techniques and
+  Tools-revised edition}.
+\newblock Princeton university press, 2015.
+
+\bibitem{papoulis1976random.book}
+Athanasios Papoulis.
+\newblock {\em Random Variables and Stochastic Processes}.
+\newblock McGraw Hill, 1976.
+
+\bibitem{reiss2012approximate.book}
+Rolf-Dieter Reiss.
+\newblock {\em Approximate distributions of order statistics: with applications
+  to nonparametric statistics}.
+\newblock Springer science \& business media, 2012.
+
+\bibitem{tsay2007extreme.misc}
+Ruey~S Tsay.
+\newblock Extreme values and their applications in finance, 2007.
+
+\bibitem{von2005mean}
+Paul~T Von~Hippel.
+\newblock Mean, median, and skew: Correcting a textbook rule.
+\newblock {\em Journal of Statistics Education}, 13(2), 2005.
+
+\bibitem{Lecture}
+Foivos Xanthos.
+\newblock Am8205: Applied statistical methods.
+\newblock 2019.
+
+\end{thebibliography}

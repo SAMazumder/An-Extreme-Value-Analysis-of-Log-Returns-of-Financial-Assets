@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: thesis.bib
+Warning--empty journal in AnEmpiricalAnalysisOfHeavyTailsBehaviorOfFinancialData.article
+Warning--empty journal in RCont.article
+Warning--empty note in Lecture
+You've used 30 entries,
+            2118 wiz_defined-function locations,
+            676 strings with 9818 characters,
+and the built_in function-call counts, 9058 in all, are:
+= -- 886
+> -- 409
+< -- 7
++ -- 167
+- -- 132
+* -- 571
+:= -- 1535
+add.period$ -- 91
+call.type$ -- 30
+change.case$ -- 147
+chr.to.int$ -- 0
+cite$ -- 33
+duplicate$ -- 368
+empty$ -- 719
+format.name$ -- 132
+if$ -- 1885
+int.to.chr$ -- 0
+int.to.str$ -- 30
+missing$ -- 37
+newline$ -- 152
+num.names$ -- 60
+pop$ -- 185
+preamble$ -- 1
+purify$ -- 126
+quote$ -- 0
+skip$ -- 254
+stack$ -- 0
+substring$ -- 487
+swap$ -- 65
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 100
+warning$ -- 3
+while$ -- 90
+width$ -- 32
+write$ -- 317
+(There were 3 warnings)
